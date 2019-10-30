@@ -1,0 +1,35 @@
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.deps.json
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.AssemblyInfoInputs.cache
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.AssemblyInfo.cs
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.deps.json
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.deps.json
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.deps.json
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Models\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Models\obj\Debug\netcoreapp2.2\Knjizara.Common.Models.csprojAssemblyReference.cache

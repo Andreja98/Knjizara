@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.RepoPattern\\Knjizara.DAL.RepoPattern.csproj": {}
+  },
+  "projects": {
+    "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Interfaces\\Knjizara.Common.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Interfaces\\Knjizara.Common.Interfaces.csproj",
+        "projectName": "Knjizara.Common.Interfaces",
+        "projectPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Interfaces\\Knjizara.Common.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\andreja\\.nuget\\packages\\",
+        "outputPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andreja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Models\\Knjizara.Common.Models.csproj": {
+                "projectPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Models\\Knjizara.Common.Models.csproj"
+              },
+              "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.Context\\Knjizara.DAL.Context.csproj": {
+                "projectPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.Context\\Knjizara.DAL.Context.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Models\\Knjizara.Common.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Models\\Knjizara.Common.Models.csproj",
+        "projectName": "Knjizara.Common.Models",
+        "projectPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Models\\Knjizara.Common.Models.csproj",
+        "packagesPath": "C:\\Users\\andreja\\.nuget\\packages\\",
+        "outputPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andreja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.Context\\Knjizara.DAL.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.Context\\Knjizara.DAL.Context.csproj",
+        "projectName": "Knjizara.DAL.Context",
+        "projectPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.Context\\Knjizara.DAL.Context.csproj",
+        "packagesPath": "C:\\Users\\andreja\\.nuget\\packages\\",
+        "outputPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andreja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Models\\Knjizara.Common.Models.csproj": {
+                "projectPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Models\\Knjizara.Common.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.RepoPattern\\Knjizara.DAL.RepoPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.RepoPattern\\Knjizara.DAL.RepoPattern.csproj",
+        "projectName": "Knjizara.DAL.RepoPattern",
+        "projectPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.RepoPattern\\Knjizara.DAL.RepoPattern.csproj",
+        "packagesPath": "C:\\Users\\andreja\\.nuget\\packages\\",
+        "outputPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.RepoPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\andreja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Interfaces\\Knjizara.Common.Interfaces.csproj": {
+                "projectPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Interfaces\\Knjizara.Common.Interfaces.csproj"
+              },
+              "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Models\\Knjizara.Common.Models.csproj": {
+                "projectPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.Common.Models\\Knjizara.Common.Models.csproj"
+              },
+              "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.Context\\Knjizara.DAL.Context.csproj": {
+                "projectPath": "G:\\Fakultet\\Treca godina semestar II\\Praktikum primenjenog programiranja\\ProjekatPPP - Copy OG\\Knjizara\\Knjizara.DAL.Context\\Knjizara.DAL.Context.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

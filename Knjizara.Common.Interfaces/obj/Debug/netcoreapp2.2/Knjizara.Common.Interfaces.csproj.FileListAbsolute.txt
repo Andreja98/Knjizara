@@ -1,0 +1,46 @@
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.deps.json
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.csprojAssemblyReference.cache
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.AssemblyInfoInputs.cache
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.AssemblyInfo.cs
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Views.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Views.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.csproj.CopyComplete
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.deps.json
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.csproj.CopyComplete
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.deps.json
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.csproj.CopyComplete
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.Common.Interfaces\obj\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.pdb

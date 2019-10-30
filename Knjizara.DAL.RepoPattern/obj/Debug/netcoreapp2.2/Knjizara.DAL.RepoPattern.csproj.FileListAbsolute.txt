@@ -1,0 +1,54 @@
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.deps.json
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.csproj.CoreCompileInputs.cache
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.AssemblyInfoInputs.cache
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.AssemblyInfo.cs
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.csprojAssemblyReference.cache
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Views.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Views.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.dll
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.pdb
+C:\Users\andreja\Desktop\ProjekatPPP\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.csproj.CopyComplete
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.deps.json
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.csproj.CopyComplete
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.deps.json
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Interfaces.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.Common.Models.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Knjizara.DAL.Context.pdb
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.csprojAssemblyReference.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.AssemblyInfoInputs.cache
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.AssemblyInfo.cs
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.csproj.CopyComplete
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.dll
+C:\Users\Pavle\Desktop\ProjekatPPP - Copy OG\Knjizara\Knjizara.DAL.RepoPattern\obj\Debug\netcoreapp2.2\Knjizara.DAL.RepoPattern.pdb
